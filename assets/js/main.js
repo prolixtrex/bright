@@ -180,7 +180,6 @@
         itemSelector: '.project-item'
       });
     }
-
   });
 
 })()
